@@ -1,0 +1,70 @@
+.modalsection{
+  margin-top: 40px;
+  margin-bottom: -10px;
+}
+
+.btn-primary{
+  color: #0b5ed7;
+  background-color: transparent;
+}
+
+.btn-primary:hover{
+  color: white;
+  background-color: #0b5ed7;
+}
+
+.btn-secondary{
+  color: #5c636a;
+  background-color: transparent;
+}
+
+.btn-secondary:hover{
+  color: white;
+  background-color: #5c636a;
+}
+
+.section-seven {
+    margin-top: 40px;
+  }
+  .section-seven .card-box .card {
+    border: none !important;
+  }
+  .section-seven .card-box .since {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    color: #282938;
+    opacity: 0.7;
+    margin-top: 10px;
+  }
+  .section-seven .card-box h6 {
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    color: #282938;
+    margin: 0 !important;
+  }
+  .section-seven .card-box p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color: #282938;
+    opacity: 0.7;
+    margin: 0;
+    margin: 16px 0 15px 0;
+  }
+  .section-seven .card-box a {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    color: #282938;
+    text-decoration: none;
+    padding-bottom: 70px;
+  }
+  .section-seven .content-box h2 {
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 64px;
+    color: #282938;
+    margin-bottom: 40px;
+  }
